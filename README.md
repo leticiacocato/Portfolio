@@ -75,8 +75,11 @@ Portfolio/
 │
 
 ├── Power BI Dashboards/ # 📈 Interactive dashboards built with Power BI
+
 │   ├──  .pbix # Dashboard on sales performance analysis
+
 │   ├──  .pbix # Dashboard on HR and employee data insights
+
 │   ├── README.txt # Documentation and context for each dashboard
 
 │
