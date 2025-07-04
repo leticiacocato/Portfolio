@@ -54,7 +54,7 @@ Portfolio/
 
 │
 
-├── Geodata Dashboard/ # 📊 Shiny app for Singapore HDB resale prices
+├── Geodata Dashboard/ # 🗺️ Shiny app for Singapore HDB resale prices
 
 │ ├── app.R # Main Shiny app code
 
@@ -74,7 +74,7 @@ Portfolio/
 
 │
 
-├── Power BI Dashboards/ # Interactive dashboards built with Power BI
+├── Power BI Dashboards/ # 📈 Interactive dashboards built with Power BI
 
 │   ├──  .pbix # Dashboard on sales performance analysis
 
