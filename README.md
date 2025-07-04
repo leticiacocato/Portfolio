@@ -2,7 +2,7 @@
 
 Welcome to my **Data Science Portfolio** – a curated showcase of my work, projects, technical skills, and experience. This repository is intended to demonstrate my capabilities in data analysis, visualization and building data-driven applications.
 
-## Featured Project
+## Featured Projects
 
 ### 🗺️ Geodata Dashboard: Singapore HDB Resale Prices
 
