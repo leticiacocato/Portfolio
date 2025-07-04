@@ -23,6 +23,26 @@ An interactive dashboard built using **R Shiny** to visualize and explore **Sing
 - Singapore HDB Resale Price data from [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/talietzin/singapore-hdb-resale-prices-1990-to-2023))
 - Geospatial boundaries from URA / Singapore Open Data sources
 
+### 📈 Power BI Dashboards
+
+A collection of interactive dashboards developed using Power BI as part of the Power BI for Data Science course by Data Science Academy. These projects were designed to communicate insights across different business domains using simulated data.
+
+#### 📌 Key Features:
+
+- Clean and dynamic dashboards with drill-down capabilities
+- Automated filtering, interactive visuals and KPI tracking
+- Ready-to-present reports for stakeholders and decision-makers
+
+#### 📊 Tools & Technologies:
+
+- **Power BI**, **DAX**, **Power Query**
+- **Excel**, **SQL**, **data modeling and transformations**
+
+#### 📦 Data:
+
+- Fictional datasets covering Marketing, Commercial Data, Sales, HR Analytics, Logistics, Financial Reports and Accounting Data
+- Simulated business scenarios created for data storytelling, performance tracking through key KPIs and decision-making practice
+
 ---
 
 ## 📂 Portfolio Structure
@@ -48,11 +68,16 @@ Portfolio/
 
 │ ├── README.txt 
 
-│
-
-├── Data/ 
+│├── Data/ 
 
 │ └── Singapore_ResalePrices.zip # Raw resale prices dataset from Kaggle
+
+│
+
+├── Power BI Dashboards/ # 📈 Interactive dashboards built with Power BI
+│   ├──  .pbix # Dashboard on sales performance analysis
+│   ├──  .pbix # Dashboard on HR and employee data insights
+│   ├── README.txt # Documentation and context for each dashboard
 
 │
 
