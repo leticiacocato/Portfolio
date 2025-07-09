@@ -2,7 +2,7 @@
 ## Dashboard Preview
 
 ### Human Resources Overview  
-![Human Resources Overview](Images/Human%20Resources%20Overview.png)
+![Human Resources Overview](HR%20Dashboard/Human%20Resources%20Overview.png)
 
 ## How to Open the Report
 
