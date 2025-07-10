@@ -1,8 +1,8 @@
 
-## Dashboard
+## Dashboard Prewview
 
-### Stock Market Overview
-![Stock Market ](Stock%20Market%20Dashboard/Images/Stock%20Market%20Dashboard%20Overview.png)
+### Stock Market Analytics
+![Stock Market](Images/Stock%20Market%20Dashboard%20Overview.png)
 
 ## How to Open the Report
 
