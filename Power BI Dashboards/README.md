@@ -24,6 +24,9 @@ This repository contains a curated set of analytical dashboards built with Power
 ### [Marketing Dashboard](Marketing%20Dashboard/README.md)  
 **Focus**: Campaign effectiveness, conversion performance, and customer engagement.
 
+### [Stock Market Dashboard](Stock%20Market%20Dashboard/README.md)  
+**Focus**: : Interactive analytics of stock market data, including trading volume trends, MoM variation of closing price mean, and mean values (open, high, low, close, volume) by year and month.
+
 ---
 
 ## 📂 How to Use
