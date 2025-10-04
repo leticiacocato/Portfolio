@@ -4,7 +4,7 @@
 ![Overview Image](Images/Global%20Sales.png)
 
 ### Global Sales Analytics
-![Global Sales Analytics](Images/Global%20Sales%20Analyticss%20Dashboard.png)
+![Global Sales Analytics](Images/Global%20Sales%20Analytics%20Dashboard.png)
 
 ## How to Open the Report
 
