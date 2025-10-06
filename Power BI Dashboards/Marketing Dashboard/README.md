@@ -1,7 +1,7 @@
 ## Dashboard Preview
 
 ### Costumer View  
-![Customer View](Images/Customer%20View.png)
+![Costumer View](Images/Costumer%20View.png)
 
 ### Customer Purchase Behavior Overview  
 ![Customer Purchase Behavior Overview](Images/Customer%20Purchase%20Behavior%20Overview.png)
