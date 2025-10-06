@@ -10,7 +10,7 @@
 ![Purchase Patterns View by Store Locations](Images/Purchase%20Patterns%20View%20by%20Store%20Locations.png)
 
 ### Marketing Campaigns Performance Overview  
-![Marketing Campaigns Performance Overview](Images/Marketing%20Campaigns%20Performance%20Overview.png)
+![Campaigns Performance Overview](Images/Campaigns%20Performance%20Overview.png)
 
 ## How to Open the Report
 
