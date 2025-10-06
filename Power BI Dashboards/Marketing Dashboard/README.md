@@ -4,7 +4,7 @@
 ![Costumer View](Images/Costumer%20View.png)
 
 ### Customer Purchase Behavior Overview  
-![Customer Purchase Behavior Overview](Images/Customer%20Purchase%20Behavior%20Overview.png)
+![Purchase Behavior Overview](Images/Purchase%20Behavior%20Overview.png)
 
 ### Purchase Patterns View by Store Locations  
 ![Purchase Patterns View by Store Locations](Images/Purchase%20Patterns%20View%20by%20Store%20Locations.png)
