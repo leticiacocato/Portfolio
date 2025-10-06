@@ -6,12 +6,11 @@
 ### Customer Purchase Behavior Overview  
 ![Purchase Behavior Overview](Images/Purchase%20Behavior%20Overview.png)
 
-### Purchase Patterns View by Store Locations  
-![Purchase Patterns View by Store Locations](Images/Purchase%20Patterns%20View%20by%20Store%20Location.png)
-
 ### Marketing Campaigns Performance Overview  
 ![Campaigns Performance Overview](Images/Campaigns%20Performance%20Overview.png)
 
+### Purchase Patterns View by Store Locations  
+![Purchase Patterns View by Store Locations](Images/Purchase%20Patterns%20View%20by%20Store%20Location.png)
 ## How to Open the Report
 
 1. Download the `dashboard.pbix` file.  
