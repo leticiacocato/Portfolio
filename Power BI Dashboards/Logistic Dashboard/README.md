@@ -2,7 +2,7 @@
 ## Logistic Dashboard Preview
 
 ### Overview
-![Overview Image](Images/Logistic%20Overview.png)
+![Overview Image](Images/Logistics%20Overview.png)
 
 ## How to Open the Report
 
