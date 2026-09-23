@@ -128,6 +128,18 @@ Portfolio/
 
 │   │   └── Retail-Sales-Analysis.pbix
 
+│   ├── screenshots/
+
+│   │   └── executive-overview.png
+
+│   │   └── sales-analysis.png
+
+│   │   └── profitability-analysis.png
+
+│   │   └── customer-and-segment-analysis.png
+
+│   │   └── regional-and-shipping-analysis.png
+
 │   └── README.md
 
 │
