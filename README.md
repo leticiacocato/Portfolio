@@ -6,7 +6,7 @@ This repository includes projects developed using SQL, Python, R, Power BI, and 
 
 ## Featured Projects
 
-### 🛒 Retail Sales Analysis — SQL & Power BI
+### 🛒 [Retail Sales Analysis — SQL & Power BI](https://github.com/leticiacocato/Portfolio/tree/main/Retail-Sales-Analysis)
 
 A data analysis project focused on sales performance, profitability, customer behavior, product performance, regional results, and the impact of discounts using the **Sample Superstore** dataset.
 
@@ -30,7 +30,7 @@ The project combines **PostgreSQL/SQL** for exploratory and business analysis wi
 - Technology led in sales ($836.2K), profit ($145.5K), and profit margin (17.40%).
 - High discount levels were associated with substantially lower profitability.
 
-### 🗺️ Geodata Dashboard: Singapore HDB Resale Prices
+### 🗺️ [Geodata Dashboard: Singapore HDB Resale Prices](https://github.com/leticiacocato/Portfolio/tree/main/Geodata%20Dashboard)
 
 An interactive dashboard built using **R Shiny** to visualize and explore **Singapore's HDB resale price trends** across time and space.
 
@@ -49,7 +49,7 @@ An interactive dashboard built using **R Shiny** to visualize and explore **Sing
 - Singapore HDB Resale Price data from [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/talietzin/singapore-hdb-resale-prices-1990-to-2023))
 - Geospatial boundaries from URA / Singapore Open Data sources
 
-### 📈 Power BI Dashboards
+### 📈 [Power BI Dashboards](https://github.com/leticiacocato/Portfolio/tree/main/Power%20BI%20Dashboards)
 
 A collection of interactive dashboards developed using Power BI as part of the Power BI for Data Science course by Data Science Academy. These projects were designed to communicate insights across different business domains using simulated data.
 
