@@ -566,6 +566,26 @@ An interactive Power BI dashboard was developed to provide an overview of sales 
 
 The dashboard is available in the project repository.
 
+### Executive Overview
+
+![Executive Overview](powerbi/screenshots/executive-overview.png)
+
+### Sales Analysis
+
+![Sales Analysis](powerbi/screenshots/sales-analysis.png)
+
+### Profitability Analysis
+
+![Profitability Analysis](powerbi/screenshots/profitability-analysis.png)
+
+### Customer & Segment Analysis
+
+![Customer & Segment Analysis](powerbi/screenshots/customer-and-segment-analysis.png)
+
+### Regional & Shipping Analysis
+
+![Regional & Shipping Analysis](powerbi/screenshots/regional-and-shipping-analysis.png)
+
 
 ## Key Business Insights
 
